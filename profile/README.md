@@ -1,7 +1,4 @@
-# LibrePrint
+# Lizard64
 
-LibrePrint is a project to create open-source printers.
+Lizard64 makes devices that are not only consumer friendly, but also open-source.
 
-# Progress
-
-Video coming soon
